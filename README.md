@@ -82,4 +82,4 @@ If you liked this project feel free to donate me for future awesome projects!</b
 
 ## Lucifer Version
 
-- [strangerthings-quotes](https://github.com/shadowoff09/lucifer-quotes)
+- [lucifer-quotes](https://github.com/shadowoff09/lucifer-quotes)
