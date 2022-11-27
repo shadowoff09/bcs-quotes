@@ -1,0 +1,30 @@
+{
+  "name": "bcs-quotes",
+  "version": "1.0.0",
+  "description": "A simple API to retrieve some quotes from Better Call Saul",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadowoff09/bcs-quotes"
+  },
+  "keywords": [
+    "bettercallsaul",
+    "bcs",
+    "saul",
+    "saul goodman",
+    "api"
+  ],
+  "author": "shadowoff09",
+  "bugs": {
+    "url": "https://github.com/shadowoff09/bcs-quotes/issues"
+  },
+  "homepage": "https://github.com/shadowoff09/bcs-quotes",
+  "main": "src/server.js",
+  "scripts": {
+    "build": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "license": "MIT"
+  
+}
