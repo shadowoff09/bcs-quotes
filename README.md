@@ -76,10 +76,14 @@ If you liked this project feel free to donate me for future awesome projects!</b
 
 - [@shadowoff09](https://www.github.com/shadowoff09)
 
-## Stranger Things Version
-
-- [strangerthings-quotes](https://github.com/shadowoff09/strangerthings-quotes)
-
-## Lucifer Version
+## Other Versions
 
 - [lucifer-quotes](https://github.com/shadowoff09/lucifer-quotes)
+- [strangerthings-quotes](https://github.com/shadowoff09/strangerthings-quotes)
+
+---
+
+[![https://vercel.com?utm_source=shadowoff09&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=shadowoff09&utm_campaign=oss)
+
+
+Made with :heart: and JavaScript.
