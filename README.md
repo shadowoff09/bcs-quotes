@@ -83,7 +83,7 @@ If you liked this project feel free to donate me for future awesome projects!</b
 
 ---
 
-[![https://vercel.com?utm_source=shadowoff09&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=shadowoff09&utm_campaign=oss)
+[![https://vercel.com?utm_source=shadowoff09&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=shadowoff09&utm_campaign=oss){:target="_blank" rel="noopener"}
 
 
 Made with :heart: and JavaScript.
