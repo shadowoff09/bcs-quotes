@@ -1,6 +1,6 @@
 ![](src/public/images/banner.png)</br>
 [![Licence](https://img.shields.io/github/license/shadowoff09/bcs-quotes)](https://github.com/shadowoff09/bcs-quotes/blob/main/LICENSE)
-[![Deployments](https://img.shields.io/github/deployments/shadowoff09/bcs-quotes/bcs-quotes)](https://github.com/shadowoff09/bcs-quotes)
+[![Deployments](https://img.shields.io/github/deployments/shadowoff09/bcs-quotes/Production?logo=vercel)](https://github.com/shadowoff09/bcs-quotes)
 [![Commits](https://img.shields.io/github/last-commit/shadowoff09/bcs-quotes)](https://github.com/shadowoff09/bcs-quotes/commits/main)
 [![Repo Size](https://img.shields.io/github/repo-size/shadowoff09/bcs-quotes)](https://github.com/shadowoff09/bcs-quotes)
 [![Quotes](https://img.shields.io/badge/quotes-49-blue)](https://github.com/shadowoff09/bcs-quotes/blob/main/quotes.js)
